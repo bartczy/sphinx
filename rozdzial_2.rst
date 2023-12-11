@@ -17,8 +17,8 @@ Garry Kasparov
 ----------------
 
 Urodził się w 1963r w ZSRR a już w 1985r mając zaledwie 22 lata został najmłodszym w historii mistrzem świata po pojedynku z Anatolijim Karparowem.
-Kasparov był znanym atakującym, który preferował dynamiczne pozycje. Jego partie często były pełne ofensywnych kombinacji i złożonych strategii.
-Miał zdolność zaskakiwania przeciwników, co sprawiało, że jego gry były pełne emocji.
+Kasparov był niesłychanie dobrym w ataku i lubował się w dynamicznych pozycjach.
+Jego partie były pełne ofensywnych taktyk i skomplikowanych strategii dzięki czemu często zaskakiwał swoich przeciwników. 
 
 Magnus Carlsen
 -----------------
