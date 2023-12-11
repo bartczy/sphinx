@@ -13,3 +13,12 @@ Bobby Fisher
 Był to Amerykański szachista który urodził się w 1943 roku.
 W 1972 mając 29 lat zdobył tytuł mistrza świata po pokananiu Borisa Spassky'ego w słynnym meczu w Rekjaviku.
 
+Garry Kasparov
+----------------
+Kasparov był znanym atakującym, który preferował dynamiczne pozycje. Jego partie często były pełne ofensywnych kombinacji i złożonych strategii.
+Miał zdolność zaskakiwania przeciwników, co sprawiało, że jego gry były pełne emocji.
+
+Magnus Carlsen
+-----------------
+Carlsen jest znany z niezwykłej wszechstronności. Jego styl obejmuje zarówno ofensywne ataki, jak i solidne obrony. Potrafi przekształcić każdą pozycję w swoją korzyść.
+Jest również doskonałym graczem w końcówkach, co przynosi mu przewagę w długich partiach.
