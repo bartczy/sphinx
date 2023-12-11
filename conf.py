@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'zadanie_sphx'
-copyright = '2023, Bartek czyz'
-author = 'Bartek czyz'
+project = 'Szachy'
+copyright = '2023, Bartek Czyż'
+author = 'Bartek Czyż'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
